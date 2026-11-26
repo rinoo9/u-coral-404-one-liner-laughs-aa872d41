@@ -8,11 +8,12 @@ The output is fully deterministic: the same bytes on every run.
 
 import os
 
-# The joke: a relatable setup (screen time) with a surprise legal twist
-# (a restraining order) as the payoff - short, fresh, and self-contained.
+# The joke: a relatable setup (a Wi-Fi router) with a surprise human
+# twist (a friendship breakup) as the payoff - short, fresh, and
+# self-contained.
 JOKE = (
-    "My phone's screen-time report just filed a restraining order "
-    "against me \u2014 apparently nine hours a day counts as stalking."
+    "I told my Wi-Fi router we were just friends, and now it drops me "
+    "every time I get too close."
 )
 
 
